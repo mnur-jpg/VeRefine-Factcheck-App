@@ -1,0 +1,6 @@
+{
+  "name": "VeRefine",
+  "description": "A semi-automated, human-centric fact-checking assistant and editor. Ingests articles, extracts factual claims, cross-references trusted sources via Google Search grounding, and provides editor rewrites and SEO optimizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
